@@ -1,0 +1,55 @@
+This file contains message digests of all files listed in MANIFEST,
+signed via the Module::Signature module, version 0.70.
+
+To verify the content in this distribution, first make sure you have
+Module::Signature installed, then type:
+
+    % cpansign -v
+
+It will check each file's integrity, as well as the signature's
+validity.  If "==> Signature verified OK! <==" is not displayed,
+the distribution may already have been compromised, and you should
+not run its Makefile.PL or Build.PL.
+
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+SHA1 63408f77b79c9ac3f202190c72c70df9fd11936f Changes
+SHA1 0990738062ddcd15f08d2e94caf1053597d466d7 Kazan.pm
+SHA1 882221895a73bad18eb9f16a0ce523a968a932c1 LICENSE.artistic_2
+SHA1 62ea8161d1cc7e68c6aa5a240b42a571037b8c51 LICENSE.bsd
+SHA1 7c44e65316a41f849aa93044b7ea866070194228 MANIFEST
+SHA1 69e29b04ecccfe4cc1d1dede246fa40cafff3374 META.yml
+SHA1 4d10ea873598ae16dd0d369d85f52aaa5b6dacc3 Makefile.PL
+SHA1 ecb47ba39d3cd51ad8a393dabc8049e5ea06f0ba README
+SHA1 a51c1dcf1c8f9108de5dd0c1568e57d0153f48e9 examples/ex1.pl
+SHA1 1820c48d91e4d0f48740a8b396eb8fa428cbe10d examples/ex2.pl
+SHA1 d2664c57b65686abbfbbe1e71229761625be4922 inc/Module/Install.pm
+SHA1 da41a8d9904f7b409b49a5f6c338d3eb305a2b4b inc/Module/Install/Base.pm
+SHA1 0db0afe19cd298abba248fa089e5525bd5ab3ab6 inc/Module/Install/Can.pm
+SHA1 e7152bfd5ca67d0e33f96d09c59d600bca5c1f15 inc/Module/Install/Fetch.pm
+SHA1 29ee1cb0dc262b00983e3a2f5cf00b538dff5069 inc/Module/Install/Makefile.pm
+SHA1 e963f80cfe255f16e55067d1feb6841cff3ed2fe inc/Module/Install/Metadata.pm
+SHA1 79f5b4199f622e8b05aac266b0c39f6a85bb303f inc/Module/Install/ReadmeFromPod.pm
+SHA1 3283fb3bb58e10c29029567e63b805cdeb66af10 inc/Module/Install/Share.pm
+SHA1 65a1f09af1f4f9e47a98b6b45667c328b1b2f9c0 inc/Module/Install/Win32.pm
+SHA1 f191c49475b3f51775180cd4f7e41e3bdab7f85a inc/Module/Install/WriteAll.pm
+SHA1 b9578263400d3669a156d4d667e0c85160bab31e share/kazan-map.xml
+SHA1 2e8730b46bce6eca155f1154e5da2f9f2807fe52 t/Map-Tube-Kazan/00-use.t
+SHA1 9767f3766589d7fd460c681ea95965e635641727 t/Map-Tube-Kazan/01-version.t
+SHA1 9755c5dbe6ad84130c4b4a6e66bec8891ee235ae t/Map-Tube-Kazan/02-pod_coverage.t
+SHA1 264a96aaec9c7df482507a5b4fdb16d5213a16a0 t/Map-Tube-Kazan/03-pod.t
+SHA1 e6d889f72d600bfe9bd8cad30f63768105454d81 t/Map-Tube-Kazan/04-get_shortest_route.t
+SHA1 c852340dece10ab520f8c44cb573bdc8db9a9f84 t/Map-Tube-Kazan/05-name.t
+SHA1 9109ef94d9000d6223709b5c7aef105f53c5986e t/Map-Tube-Kazan/06-xml.t
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.4.12 (GNU/Linux)
+
+iQEcBAEBAgAGBQJUiUDXAAoJEAwa+cf4dLBaXmAIAOUV2Y0mXVBG8u8BZYpwdRul
+2ZGl/EAoAuQ74wsjO1esIsFKYqq67DVqw1Uim603RFuDUb0aHrMebdMXRzTXpp3T
+2g87+i1FKoqtHmWWlxV+QqbVVhSikO9sFZ9EQnvK/awSPO1fA0AP8jMjWJTejAuH
+dgCq9cnLRPAQNxU0SIXn4qo5AbweAK2Y2o1UOSL4/NAV2BTlbD4TSz9vvwYlC5ZQ
+KChvQBlcE4EqTC2SbBfRJILZXsM070m5qlUg+1qpVoFFs7WQyfHhONMfOIKHu3ZR
+8QTB+vyEZtQ0HO1Irlu2pBoOb9uZBKY4qbkSMKtzggQTUaZfZtV/aRP5grWU7UY=
+=7W78
+-----END PGP SIGNATURE-----

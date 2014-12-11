@@ -19,6 +19,7 @@ MANIFEST			This list of files
 META.yml
 README
 share/kazan-map.xml
+SIGNATURE
 t/Map-Tube-Kazan/00-use.t
 t/Map-Tube-Kazan/01-version.t
 t/Map-Tube-Kazan/02-pod_coverage.t
