@@ -59,13 +59,13 @@ EXAMPLE1
      my $obj = Map::Tube::Kazan->new;
 
      # Get route.
-     my $route = $obj->get_shortest_route(decode_utf8('TODO'), decode_utf8('TODO'));
+     my $route = $obj->get_shortest_route(decode_utf8('Яшьлек'), decode_utf8('Горки'));
 
      # Print out type.
      print "Route: ".encode_utf8($route)."\n";
 
      # Output:
-     # TODO
+     # Route: Яшьлек (Центральная линия), Козья слобода (Центральная линия), Кремлёвская (Центральная линия), Площадь Габдуллы Тукая (Центральная линия), Суконная слобода (Центральная линия), Аметьево (Центральная линия), Горки (Центральная линия)
 
 EXAMPLE2
      # Pragmas.
