@@ -1,5 +1,6 @@
 0.02
  - Add get_lines() method to doc.
+ - Add get_stations() method to doc.
  - Update README.
  - Remove executable bit from kazan-map.xml file.
 
