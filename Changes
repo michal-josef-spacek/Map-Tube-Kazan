@@ -3,6 +3,7 @@
  - Add get_stations() method to doc.
  - Update README.
  - Remove executable bit from kazan-map.xml file.
+ - Remove obsolete code from EXAMPLE2 section in doc.
 
 0.01 2014-12-11T07:59:22+01:00
  - First version

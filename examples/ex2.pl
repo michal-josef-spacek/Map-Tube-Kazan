@@ -2,7 +2,6 @@
 
 # Pragmas.
 use strict;
-use utf8;
 use warnings;
 
 # Modules.
