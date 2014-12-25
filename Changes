@@ -1,5 +1,9 @@
 0.02
  - Add EXAMPLE3 section to doc.
+ - Add Map::Tube::GraphViz, Map::Tube::Text::Table, Map::Tube::Bucharest,
+   Map::Tube::Dnipropetrovsk, Map::Tube::Novosibirsk, Map::Tube::Prague,
+   Map::Tube::SaintPetersburg, Map::Tube::Tbilisi, Map::Tube::Vienna and
+   Map::Tube::Yekaterinburg to SEE ALSO section in doc.
  - Add get_lines() method to doc.
  - Add get_stations() method to doc.
  - Update README.

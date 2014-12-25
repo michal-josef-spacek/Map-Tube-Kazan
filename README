@@ -130,10 +130,15 @@ DEPENDENCIES
     File::Share, Map::Tube, Moo, namespace::clean.
 
 SEE ALSO
-    Map::Tube, Map::Tube::Barcelona, Map::Tube::Berlin, Map::Tube::Delhi,
-    Map::Tube::Kharkiv, Map::Tube::Kiev, Map::Tube::London,
-    Map::Tube::Minsk, Map::Tube::Moscow, Map::Tube::NYC, Map::Tube::Samara,
-    Map::Tube::Sofia, Map::Tube::Tokyo, Map::Tube::Warsaw.
+    Map::Tube, Map::Tube::GraphViz, Map::Tube::Text::Table.
+
+    Map::Tube::Barcelona, Map::Tube::Berlin, Map::Tube::Bucharest,
+    Map::Tube::Delhi, Map::Tube::Dnipropetrovsk, Map::Tube::Kharkiv,
+    Map::Tube::Kiev, Map::Tube::London, Map::Tube::Minsk, Map::Tube::Moscow,
+    Map::Tube::Novosibirsk, Map::Tube::NYC, Map::Tube::Prague,
+    Map::Tube::SaintPetersburg, Map::Tube::Samara, Map::Tube::Sofia,
+    Map::Tube::Tbilisi, Map::Tube::Tokyo, Map::Tube::Vienna,
+    Map::Tube::Warsaw, Map::Tube::Yekaterinburg.
 
 REPOSITORY
     <https://github.com/tupinek/Map-Tube-Kazan>
