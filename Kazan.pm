@@ -195,7 +195,8 @@ L<namespace::clean>.
 
 L<Map::Tube>,
 L<Map::Tube::GraphViz>,
-L<Map::Tube::Text::Table>.
+L<Map::Tube::Text::Table>,
+L<Task::Map::Tube>.
 
 L<Map::Tube::Barcelona>,
 L<Map::Tube::Berlin>,

@@ -130,7 +130,7 @@ DEPENDENCIES
     File::Share, Map::Tube, Moo, namespace::clean.
 
 SEE ALSO
-    Map::Tube, Map::Tube::GraphViz, Map::Tube::Text::Table.
+    Map::Tube, Map::Tube::GraphViz, Map::Tube::Text::Table, Task::Map::Tube.
 
     Map::Tube::Barcelona, Map::Tube::Berlin, Map::Tube::Bucharest,
     Map::Tube::Delhi, Map::Tube::Dnipropetrovsk, Map::Tube::Kharkiv,
