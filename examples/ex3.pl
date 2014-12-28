@@ -17,7 +17,7 @@ my $g = Map::Tube::GraphViz->new(
         'callback_node' => \&node_color_without_label,
         'driver' => 'neato',
         'tube' => $obj,
-); 
+);
 
 # Get graph to file.
 $g->graph('Kazan.png');
