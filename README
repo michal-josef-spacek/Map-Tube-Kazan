@@ -135,7 +135,7 @@ SEE ALSO
     Map::Tube::Barcelona, Map::Tube::Berlin, Map::Tube::Bucharest,
     Map::Tube::Delhi, Map::Tube::Dnipropetrovsk, Map::Tube::Kharkiv,
     Map::Tube::Kiev, Map::Tube::London, Map::Tube::Minsk, Map::Tube::Moscow,
-    Map::Tube::Novosibirsk, Map::Tube::NYC, Map::Tube::Prague,
+    Map::Tube::NYC, Map::Tube::Novosibirsk, Map::Tube::Prague,
     Map::Tube::SaintPetersburg, Map::Tube::Samara, Map::Tube::Sofia,
     Map::Tube::Tbilisi, Map::Tube::Tokyo, Map::Tube::Vienna,
     Map::Tube::Warsaw, Map::Tube::Yekaterinburg.
