@@ -1,5 +1,6 @@
 0.03
  - Add Map::Tube::Budapest and Map::Tube::Nanjing to SEE ALSO section in doc.
+ - Add Map::Tube::Graph to SEE ALSO section in doc.
  - Add Task::Map::Tube to SEE ALSO section in doc.
  - Update copyright years to 2015.
 
