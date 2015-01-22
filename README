@@ -131,7 +131,7 @@ DEPENDENCIES
 
 SEE ALSO
     Map::Tube, Map::Tube::Graph, Map::Tube::GraphViz,
-    Map::Tube::Text::Table, Task::Map::Tube.
+    Map::Tube::Plugin::Graph, Map::Tube::Text::Table, Task::Map::Tube.
 
     Map::Tube::Barcelona, Map::Tube::Berlin, Map::Tube::Bucharest,
     Map::Tube::Budapest, Map::Tube::Delhi, Map::Tube::Dnipropetrovsk,
