@@ -32,7 +32,7 @@ requires:
   Map::Tube: '2.41'
   Moo: 0
   namespace::clean: 0
-  perl: 5.8.0
+  perl: 5.6.0
 resources:
   bugtracker: https://rt.cpan.org/Public/Dist/Display.html?Name=Map-Tube-Kazan
   homepage: https://github.com/tupinek/Map-Tube-Kazan

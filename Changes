@@ -3,6 +3,7 @@
  - Add Map::Tube::Graph to SEE ALSO section in doc.
  - Add Map::Tube::Plugin::Graph to SEE ALSO section in doc.
  - Add Task::Map::Tube to SEE ALSO section in doc.
+ - Fix minimal Perl version.
  - Update copyright years to 2015.
 
 0.02 2014-12-25T18:26:55+01:00
