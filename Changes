@@ -1,4 +1,5 @@
 0.03
+ - Add <?xml> header to XML document.
  - Add Map::Tube::Budapest and Map::Tube::Nanjing to SEE ALSO section in doc.
  - Add Map::Tube::Graph to SEE ALSO section in doc.
  - Add Map::Tube::Plugin::Graph to SEE ALSO section in doc.
