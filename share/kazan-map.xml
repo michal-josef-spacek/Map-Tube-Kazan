@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tube name="Казанский метрополитен">
   <!-- https://ru.wikipedia.org/wiki/Казанский_метрополитен -->
+  <lines>
+    <line id="1" name="Центральная линия" color="red"/>
+  </lines>
   <stations>
     <!-- https://ru.wikipedia.org/wiki/Центральная_линия_(Казань) -->
     <station id="1-01" name="Авиастроительная" line="Центральная линия" link="1-02"/>
