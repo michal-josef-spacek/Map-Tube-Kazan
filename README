@@ -138,9 +138,9 @@ SEE ALSO
     Map::Tube::Kharkiv, Map::Tube::Kiev, Map::Tube::London,
     Map::Tube::Minsk, Map::Tube::Moscow, Map::Tube::NYC, Map::Tube::Nanjing,
     Map::Tube::Novosibirsk, Map::Tube::Prague, Map::Tube::SaintPetersburg,
-    Map::Tube::Samara, Map::Tube::Sofia, Map::Tube::Tbilisi,
-    Map::Tube::Tokyo, Map::Tube::Vienna, Map::Tube::Warsaw,
-    Map::Tube::Yekaterinburg.
+    Map::Tube::Samara, Map::Tube::Singapore, Map::Tube::Sofia,
+    Map::Tube::Tbilisi, Map::Tube::Tokyo, Map::Tube::Vienna,
+    Map::Tube::Warsaw, Map::Tube::Yekaterinburg.
 
 REPOSITORY
     <https://github.com/tupinek/Map-Tube-Kazan>
