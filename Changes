@@ -1,11 +1,11 @@
 0.03
  - Add <?xml> header to XML document.
- - Add lines to XML document.
  - Add Map::Tube::Budapest and Map::Tube::Nanjing to SEE ALSO section in doc.
  - Add Map::Tube::Graph to SEE ALSO section in doc.
  - Add Map::Tube::Plugin::Graph to SEE ALSO section in doc.
  - Add Map::Tube::Singapore to SEE ALSO section in doc.
  - Add Task::Map::Tube to SEE ALSO section in doc.
+ - Add lines to XML document.
  - Fix minimal Perl version.
  - Update copyright years to 2015.
 
