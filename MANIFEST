@@ -26,6 +26,7 @@ t/Map-Tube-Kazan/00-use.t
 t/Map-Tube-Kazan/01-version.t
 t/Map-Tube-Kazan/02-pod_coverage.t
 t/Map-Tube-Kazan/03-pod.t
-t/Map-Tube-Kazan/04-get_shortest_route.t
-t/Map-Tube-Kazan/05-name.t
-t/Map-Tube-Kazan/06-xml.t
+t/Map-Tube-Kazan/04-map.t
+t/Map-Tube-Kazan/05-get_shortest_route.t
+t/Map-Tube-Kazan/06-name.t
+t/Map-Tube-Kazan/07-xml.t

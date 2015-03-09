@@ -6,6 +6,7 @@
  - Add Map::Tube::Singapore to SEE ALSO section in doc.
  - Add Task::Map::Tube to SEE ALSO section in doc.
  - Add lines to XML document.
+ - Add test of map validity.
  - Fix minimal Perl version.
  - Update copyright years to 2015.
 
