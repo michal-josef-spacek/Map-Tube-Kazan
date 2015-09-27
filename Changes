@@ -1,5 +1,6 @@
 0.03
  - Add <?xml> header to XML document.
+ - Add example for print of metro lines to doc.
  - Add lines to XML document.
  - Add test of map validity.
  - Fix minimal Perl version.
