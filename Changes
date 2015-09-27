@@ -3,6 +3,7 @@
  - Add lines to XML document.
  - Add test of map validity.
  - Fix minimal Perl version.
+ - Move author tests to xt/ directory.
  - Rewrite SEE ALSO section to new style.
  - Update copyright years to 2015.
  - Update Module::Install to 1.16 version.
