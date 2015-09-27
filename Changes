@@ -1,4 +1,4 @@
-0.03
+0.03 2015-09-27T18:59:14+02:00
  - Add <?xml> header to XML document.
  - Add example for print of metro lines to doc.
  - Add get_line_by_id() and get_line_by_name() methods to doc.

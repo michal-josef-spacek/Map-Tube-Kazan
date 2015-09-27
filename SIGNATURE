@@ -1,5 +1,5 @@
 This file contains message digests of all files listed in MANIFEST,
-signed via the Module::Signature module, version 0.70.
+signed via the Module::Signature module, version 0.79.
 
 To verify the content in this distribution, first make sure you have
 Module::Signature installed, then type:
@@ -14,44 +14,48 @@ not run its Makefile.PL or Build.PL.
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA1
 
-SHA1 90953e2d70ec5f13e3b46de90a6ccbcff19ae353 Changes
-SHA1 63272c22b0f04e25439ac16f7891a0c0400bf646 Kazan.pm
+SHA1 f02f13c672969d57da2d7b6dd2cc1742be3b94c6 Changes
+SHA1 f65bde2084a126b3a1a3f651da35697acabece65 Kazan.pm
 SHA1 882221895a73bad18eb9f16a0ce523a968a932c1 LICENSE.artistic_2
-SHA1 62ea8161d1cc7e68c6aa5a240b42a571037b8c51 LICENSE.bsd
-SHA1 30e2c04f95847c5e030b05ebbb2efa75ee5df1ed MANIFEST
-SHA1 0e70eecf3a97fd96a388d5c52c10a5e22161058a META.yml
-SHA1 a6a554be4163a7f456c1c9d11eaca28952b5956b Makefile.PL
-SHA1 d9300f66a120bfa2d4ab428258d2cab2fdcf8ccb README
+SHA1 507a10efa92555ddddfbe72be27964d9e3eef80f LICENSE.bsd
+SHA1 26d6839221e96deab91dcdfca9cd4f6f50560200 MANIFEST
+SHA1 02b8c7c52c0f2e9c2fedbd6121161c6bdc652d0e META.yml
+SHA1 481b2cbf15a6b5001c54cd23c0d81f983d599173 Makefile.PL
+SHA1 f793db68363d07ed037c906ab445890f18bfec42 README
 SHA1 a51c1dcf1c8f9108de5dd0c1568e57d0153f48e9 examples/ex1.pl
 SHA1 f2121886948f4ab83cf11828e651f2a6d3fefc23 examples/ex2.pl
-SHA1 d45d911134f64d6f68ca92087a4289e97dbf07d5 examples/ex3.pl
+SHA1 8a3e5009b7e96e6020d49b5213ff2d10b9b9175b examples/ex3.pl
+SHA1 9c9674a314f979f9f6fcaeb0157360464e07f04a examples/ex4.pl
 SHA1 11be770d17d491c114a5c30d424a8f029eb32068 images/Kazan.png
-SHA1 d2664c57b65686abbfbbe1e71229761625be4922 inc/Module/Install.pm
-SHA1 da41a8d9904f7b409b49a5f6c338d3eb305a2b4b inc/Module/Install/Base.pm
-SHA1 0db0afe19cd298abba248fa089e5525bd5ab3ab6 inc/Module/Install/Can.pm
-SHA1 e7152bfd5ca67d0e33f96d09c59d600bca5c1f15 inc/Module/Install/Fetch.pm
-SHA1 29ee1cb0dc262b00983e3a2f5cf00b538dff5069 inc/Module/Install/Makefile.pm
-SHA1 e963f80cfe255f16e55067d1feb6841cff3ed2fe inc/Module/Install/Metadata.pm
+SHA1 bce3c51bb369419603298064b78e14077b93af66 inc/Module/Install.pm
+SHA1 5c1a9d3a384a5262cbc105ab76d446047904c7fa inc/Module/Install/AuthorRequires.pm
+SHA1 d001b4b9a48395a8c4134b234a0e1789138427c5 inc/Module/Install/AuthorTests.pm
+SHA1 fe220f215f645500ce8f14ff5e19d9a28692af56 inc/Module/Install/Base.pm
+SHA1 b56ed8e42c600e08007d152cf0b1438a7c3b7f6e inc/Module/Install/Can.pm
+SHA1 99c531a17a67ce5250df2ae151cc48c80d914cde inc/Module/Install/Fetch.pm
+SHA1 76efdca3603159e0ae0e18f19fe72a0211a69529 inc/Module/Install/Makefile.pm
+SHA1 2e33e87882d60db3913da6284dd5295e5315e18a inc/Module/Install/Metadata.pm
 SHA1 79f5b4199f622e8b05aac266b0c39f6a85bb303f inc/Module/Install/ReadmeFromPod.pm
-SHA1 3283fb3bb58e10c29029567e63b805cdeb66af10 inc/Module/Install/Share.pm
-SHA1 65a1f09af1f4f9e47a98b6b45667c328b1b2f9c0 inc/Module/Install/Win32.pm
-SHA1 f191c49475b3f51775180cd4f7e41e3bdab7f85a inc/Module/Install/WriteAll.pm
-SHA1 b9578263400d3669a156d4d667e0c85160bab31e share/kazan-map.xml
-SHA1 2e8730b46bce6eca155f1154e5da2f9f2807fe52 t/Map-Tube-Kazan/00-use.t
-SHA1 b1fc8e70255bd0aed8269fbb53307cfa2ef4188e t/Map-Tube-Kazan/01-version.t
-SHA1 9755c5dbe6ad84130c4b4a6e66bec8891ee235ae t/Map-Tube-Kazan/02-pod_coverage.t
-SHA1 264a96aaec9c7df482507a5b4fdb16d5213a16a0 t/Map-Tube-Kazan/03-pod.t
-SHA1 e6d889f72d600bfe9bd8cad30f63768105454d81 t/Map-Tube-Kazan/04-get_shortest_route.t
-SHA1 c852340dece10ab520f8c44cb573bdc8db9a9f84 t/Map-Tube-Kazan/05-name.t
-SHA1 9109ef94d9000d6223709b5c7aef105f53c5986e t/Map-Tube-Kazan/06-xml.t
+SHA1 42de62df31eaf796d8bfd49a11fdc9cff1b50b74 inc/Module/Install/Share.pm
+SHA1 c830b819e61bda5eca077c6291293bba61b3b9f2 inc/Module/Install/Win32.pm
+SHA1 cb52b9d6f88d512d448a6f35ed0af0d1201a134b inc/Module/Install/WriteAll.pm
+SHA1 8a6750feca9a6433206f5ee2744b6ab423892057 share/kazan-map.xml
+SHA1 2e8730b46bce6eca155f1154e5da2f9f2807fe52 t/Map-Tube-Kazan/01-use.t
+SHA1 09ba4ff343c65c132881ac0c951ad94e5d1ee5fc t/Map-Tube-Kazan/02-version.t
+SHA1 fc0496d0fe2ca7526dc2506a3f5808abb04f62a8 t/Map-Tube-Kazan/03-map.t
+SHA1 754a316e52d5bc9d0eaf49f9265210700facb7b4 t/Map-Tube-Kazan/04-get_shortest_route.t
+SHA1 5080eb5f9330adcdb8cda13b0201e8c6ef7bd3b7 t/Map-Tube-Kazan/05-name.t
+SHA1 a2e671e9b1a07c2bc5aeba742de729b77219991e t/Map-Tube-Kazan/06-xml.t
+SHA1 9755c5dbe6ad84130c4b4a6e66bec8891ee235ae xt/Map-Tube-Kazan/01-pod_coverage.t
+SHA1 264a96aaec9c7df482507a5b4fdb16d5213a16a0 xt/Map-Tube-Kazan/02-pod.t
 -----BEGIN PGP SIGNATURE-----
-Version: GnuPG v1.4.12 (GNU/Linux)
+Version: GnuPG v1
 
-iQEcBAEBAgAGBQJUnEjhAAoJEAwa+cf4dLBaKwgH+gP72Vwr3aqub6ybqqXMmrAW
-pRXC8rNo1gqWfg+TnCyeOpuJ2SOm8ltQcgThx0e8cuYV9VC/5ibbYJn9aVcnuQSq
-wqpTG7yCUSf2qOI9X+UpHhMqROtpLqYlQCH8JroH3SVcOlvvDXf7pFfw2sIjPs2i
-27tHMOgRSfqfSP8HxMwO+V3ZCmPzJ9Q9KzVvg1/pSHAtjivR/VbMqaKOL1bFF+vX
-Ll9A3rHrgQeTkixx3ZRbSEYfTw4TxVZpCrPUsYrbEXbVUIYOAu5iA2N0q/kOM62h
-gpXhcaDE30E7O+XeFzKNMBV7i3AR0FEhX/M5Pl1BpAOr6aYbiokXNll8G/GxkH0=
-=wc4k
+iQEcBAEBAgAGBQJWCCBmAAoJEJe+XXKaIuTl21oIALX9IdqTzJnHFn+ANGa08Fks
+1yLKm7QkbMRL6OhngM9jrYVJ0DEjQIiIROyXycyEaDtGea4Lr8ldg/A1K8wLViZQ
+r2VlB9Tv+fkrgl2pSBexOJh192j8VSh7r36ZlnSDOSMYs18m6be7OU9wW3vt2/Fx
+ngMQlkHJUA5u7k6O4+OLqSbexa6NTLIhe0heQgcT292fPIwD3b1VFq9/SfwehMT1
+f9++vf27Md4kt9huMbzdSc88vpBl8JfORN5unuOCcMDNr7RSINMfiMPL6BqeICz1
+xAVhUEOHtZQN73WvaN1rR+uTti72ULaK60oWPz/wbjZclREjS0zn+a7uDOZ1UtY=
+=DIYV
 -----END PGP SIGNATURE-----
