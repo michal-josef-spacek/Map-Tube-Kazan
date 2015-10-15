@@ -28,7 +28,7 @@ no_index:
     - xt
 requires:
   File::Share: 0
-  Map::Tube: '3.01'
+  Map::Tube: '3.06'
   Moo: 0
   namespace::clean: 0
   perl: 5.6.0
