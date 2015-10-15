@@ -14,14 +14,14 @@ not run its Makefile.PL or Build.PL.
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA1
 
-SHA1 f02f13c672969d57da2d7b6dd2cc1742be3b94c6 Changes
-SHA1 f65bde2084a126b3a1a3f651da35697acabece65 Kazan.pm
+SHA1 bcf4e3cc3c2ac0e02e2a03c5b5dd00db7f7ebb06 Changes
+SHA1 6d95066ef03e4ddb72ee14e85bffa264f3fb61eb Kazan.pm
 SHA1 882221895a73bad18eb9f16a0ce523a968a932c1 LICENSE.artistic_2
 SHA1 507a10efa92555ddddfbe72be27964d9e3eef80f LICENSE.bsd
-SHA1 26d6839221e96deab91dcdfca9cd4f6f50560200 MANIFEST
-SHA1 02b8c7c52c0f2e9c2fedbd6121161c6bdc652d0e META.yml
-SHA1 481b2cbf15a6b5001c54cd23c0d81f983d599173 Makefile.PL
-SHA1 f793db68363d07ed037c906ab445890f18bfec42 README
+SHA1 06e8d61e9389670a781f17d3d28ae207c89ee589 MANIFEST
+SHA1 dd34ffaf82238b8f23c762bd6d400c554ef5ee28 META.yml
+SHA1 42ed3221979c5ed0b8cd7930e75df78052078d29 Makefile.PL
+SHA1 71aa3a8afcf1e49229f3e7076d0426a240276c8b README
 SHA1 a51c1dcf1c8f9108de5dd0c1568e57d0153f48e9 examples/ex1.pl
 SHA1 f2121886948f4ab83cf11828e651f2a6d3fefc23 examples/ex2.pl
 SHA1 8a3e5009b7e96e6020d49b5213ff2d10b9b9175b examples/ex3.pl
@@ -41,21 +41,23 @@ SHA1 c830b819e61bda5eca077c6291293bba61b3b9f2 inc/Module/Install/Win32.pm
 SHA1 cb52b9d6f88d512d448a6f35ed0af0d1201a134b inc/Module/Install/WriteAll.pm
 SHA1 8a6750feca9a6433206f5ee2744b6ab423892057 share/kazan-map.xml
 SHA1 2e8730b46bce6eca155f1154e5da2f9f2807fe52 t/Map-Tube-Kazan/01-use.t
-SHA1 09ba4ff343c65c132881ac0c951ad94e5d1ee5fc t/Map-Tube-Kazan/02-version.t
+SHA1 efea84ea8e798abae9021c1c54afe67bb1f5e810 t/Map-Tube-Kazan/02-version.t
 SHA1 fc0496d0fe2ca7526dc2506a3f5808abb04f62a8 t/Map-Tube-Kazan/03-map.t
-SHA1 754a316e52d5bc9d0eaf49f9265210700facb7b4 t/Map-Tube-Kazan/04-get_shortest_route.t
-SHA1 5080eb5f9330adcdb8cda13b0201e8c6ef7bd3b7 t/Map-Tube-Kazan/05-name.t
-SHA1 a2e671e9b1a07c2bc5aeba742de729b77219991e t/Map-Tube-Kazan/06-xml.t
+SHA1 d182c29552eca207f92d4a8cc867429d495cb094 t/Map-Tube-Kazan/04-get_node_by_id.t
+SHA1 e54d22fc76434563968f34c29b24126d90506abf t/Map-Tube-Kazan/05-get_node_by_name.t
+SHA1 560ece0e5323a4714677cc9fb0992ab5748fb45c t/Map-Tube-Kazan/06-get_shortest_route.t
+SHA1 5080eb5f9330adcdb8cda13b0201e8c6ef7bd3b7 t/Map-Tube-Kazan/07-name.t
+SHA1 a2e671e9b1a07c2bc5aeba742de729b77219991e t/Map-Tube-Kazan/08-xml.t
 SHA1 9755c5dbe6ad84130c4b4a6e66bec8891ee235ae xt/Map-Tube-Kazan/01-pod_coverage.t
 SHA1 264a96aaec9c7df482507a5b4fdb16d5213a16a0 xt/Map-Tube-Kazan/02-pod.t
 -----BEGIN PGP SIGNATURE-----
 Version: GnuPG v1
 
-iQEcBAEBAgAGBQJWCCBmAAoJEJe+XXKaIuTl21oIALX9IdqTzJnHFn+ANGa08Fks
-1yLKm7QkbMRL6OhngM9jrYVJ0DEjQIiIROyXycyEaDtGea4Lr8ldg/A1K8wLViZQ
-r2VlB9Tv+fkrgl2pSBexOJh192j8VSh7r36ZlnSDOSMYs18m6be7OU9wW3vt2/Fx
-ngMQlkHJUA5u7k6O4+OLqSbexa6NTLIhe0heQgcT292fPIwD3b1VFq9/SfwehMT1
-f9++vf27Md4kt9huMbzdSc88vpBl8JfORN5unuOCcMDNr7RSINMfiMPL6BqeICz1
-xAVhUEOHtZQN73WvaN1rR+uTti72ULaK60oWPz/wbjZclREjS0zn+a7uDOZ1UtY=
-=DIYV
+iQEcBAEBAgAGBQJWIBsiAAoJEJe+XXKaIuTlsWMIAJC0YHotrtOCrnLfxTbmO3dF
+XSAFnLEZmx41ofLsFoyH+cIyQZuuwWll/PezSmnXYm1mP74L8jKN7CY16ppu3HR9
+w6TgQJpxKtmdxPGORqXtjNJX004xMjYlbeKwWGQbiUePLh2HEVyjRIvbuYupeBB6
+imUC1r2n3E8sX1An4JE3giZCWXr3Yu7fsBUfSTSqHeNyclZEFfjLDUHPnAKz2ZCs
+4+cSt5tqS5for3t5SQo9IHXbaTcnWLVmpowMxhJKot5RWllX8gmlcmYCC6sugO2O
+mV76q07J4h1MRUhBIs5OApBr9reQh+QQz3mR0rUTf6sYQe5UK+3uR3usVYxhqgU=
+=X9Yo
 -----END PGP SIGNATURE-----
