@@ -1,4 +1,5 @@
 0.05
+ - Implement station order.
  - Improve description for get_lines() in doc.
  - Rewrite XML map to new version with line IDs.
 
