@@ -21,7 +21,7 @@ name 'Map-Tube-Kazan';
 readme_from 'Kazan.pm';
 recursive_author_tests('xt');
 requires 'File::Share' => 0;
-requires 'Map::Tube' => '3.06';
+requires 'Map::Tube' => '3.10';
 requires 'Moo' => 0;
 requires 'namespace::clean' => 0;
 requires 'perl' => '5.6.0';
