@@ -5,6 +5,7 @@
  - Improve description for get_lines() in doc.
  - Rewrite XML map to new version with line IDs.
  - Update Module::Install to 1.18 version.
+ - Update author name.
 
 0.04 2015-10-15T23:31:12+02:00
  - Add tests for get_node_by_id() and get_node_by_name() methods.

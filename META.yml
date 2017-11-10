@@ -1,7 +1,7 @@
 ---
 abstract: 'Interface to the Kazan Metro Map.'
 author:
-  - 'Michal Spacek <skim@cpan.org>'
+  - 'Michal Josef Spacek <skim@cpan.org>'
 build_requires:
   Encode: 0
   English: 0
