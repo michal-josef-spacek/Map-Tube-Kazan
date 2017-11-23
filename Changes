@@ -1,4 +1,4 @@
-0.05
+0.05 2017-11-23T08:42:54+01:00
  - Add EXAMPLE5 section to doc.
  - Add test for ok_map_functions().
  - Fix Makefile.PL for new version of Perl and no default »use lib '.'«.
