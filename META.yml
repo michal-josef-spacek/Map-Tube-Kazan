@@ -6,7 +6,7 @@ build_requires:
   Encode: 0
   English: 0
   ExtUtils::MakeMaker: 6.36
-  Test::Map::Tube: 0.07
+  Test::Map::Tube: 0.35
   Test::More: 0
   Test::NoWarnings: 0
 configure_requires:
@@ -28,7 +28,7 @@ no_index:
     - xt
 requires:
   File::Share: 0
-  Map::Tube: '3.10'
+  Map::Tube: '3.41'
   Moo: 0
   namespace::clean: 0
   perl: 5.6.0
