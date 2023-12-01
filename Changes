@@ -1,5 +1,6 @@
 0.06
  - Update Module::Install to 1.21 version.
+ - Update author github username.
 
 0.05 2017-11-23T08:42:54+01:00
  - Add EXAMPLE5 section to doc.
