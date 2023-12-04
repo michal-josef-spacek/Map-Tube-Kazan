@@ -33,6 +33,7 @@ Map::Tube::Kazan - Interface to the Kazan Metro Map.
 =head1 SYNOPSIS
 
  use Map::Tube::Kazan;
+
  my $obj = Map::Tube::Kazan->new;
  my $routes_ar = $obj->get_all_routes($from, $to);
  my $line = $obj->get_line_by_id($line_id);
