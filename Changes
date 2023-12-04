@@ -1,4 +1,5 @@
 0.06
+ - Fix Makefile.PL use lib '.'.
  - Improve LICENSE AND COPYRIGHT section in doc.
  - Update Module::Install to 1.21 version.
  - Update author github username.
