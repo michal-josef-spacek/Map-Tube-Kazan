@@ -115,6 +115,8 @@ For more information about Kazan Map, click L<here|https://en.wikipedia.org/wiki
 
 =head1 EXAMPLE1
 
+=for comment filename=print_kazan_route.pl
+
  use strict;
  use warnings;
 
@@ -135,6 +137,8 @@ For more information about Kazan Map, click L<here|https://en.wikipedia.org/wiki
 
 =head1 EXAMPLE2
 
+=for comment filename=print_kazan_def_xml_file.pl
+
  use strict;
  use warnings;
 
@@ -153,6 +157,8 @@ For more information about Kazan Map, click L<here|https://en.wikipedia.org/wiki
  # XML file: .*/kazan-map.xml
 
 =head1 EXAMPLE3
+
+=for comment filename=print_kazan_image.pl
 
  use strict;
  use warnings;
@@ -190,6 +196,8 @@ For more information about Kazan Map, click L<here|https://en.wikipedia.org/wiki
 
 =head1 EXAMPLE4
 
+=for comment filename=print_kazan_lines.pl
+
  use strict;
  use warnings;
 
@@ -209,6 +217,8 @@ For more information about Kazan Map, click L<here|https://en.wikipedia.org/wiki
  # Центральная линия
 
 =head1 EXAMPLE5
+
+=for comment filename=print_kazan_line_stations.pl
 
  use strict;
  use warnings;
