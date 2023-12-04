@@ -55,63 +55,93 @@ For more information about Kazan Map, click L<here|https://en.wikipedia.org/wiki
 
 =head1 METHODS
 
-=over 8
+=head2 C<new>
 
-=item C<new()>
+ my $obj = Map::Tube::Kazan->new;
 
- Constructor.
+Constructor.
 
-=item C<get_all_routes($from, $to)> [EXPERIMENTAL]
+Returns instance of object.
 
- Get all routes from station to station.
- Returns reference to array with Map::Tube::Route objects.
+=head2 C<get_all_routes> [EXPERIMENTAL]
 
-=item C<get_line_by_id($line_id)>
+ my $routes_ar = $obj->get_all_routes($from, $to);
 
- Get line object defined by id.
- Returns Map::Tube::Line object.
+Get all routes from station to station.
 
-=item C<get_line_by_name($line_name)>
+Returns reference to array with Map::Tube::Route objects.
 
- Get line object defined by name.
- Returns Map::Tube::Line object.
+=head2 C<get_line_by_id>
 
-=item C<get_lines()>
+ my $line = $obj->get_line_by_id($line_id);
 
- Get lines in metro map.
- Returns reference to unsorted array with Map::Tube::Line objects.
+Get line object defined by id.
 
-=item C<get_node_by_id($station_id)>
+Returns Map::Tube::Line object.
 
- Get station node by id.
- Returns Map::Tube::Node object.
+=head2 C<get_line_by_name>
 
-=item C<get_node_by_name($station_name)>
+ my $line = $obj->get_line_by_name($line_name);
 
- Get station node by name.
- Returns Map::Tube::Node object.
+Get line object defined by name.
 
-=item C<get_shortest_route($from, $to)>
+Returns Map::Tube::Line object.
 
- Get shortest route between $from and $to node names. Node names in $from and $to are case insensitive.
- Returns Map::Tube::Route object.
+=head2 C<get_lines>
 
-=item C<get_stations($line)>
+ my $lines_ar = $obj->get_lines;
 
- Get list of stations for concrete metro line.
- Returns reference to array with Map::Tube::Node objects.
+Get lines in metro map.
 
-=item C<name()>
+Returns reference to unsorted array with Map::Tube::Line objects.
 
- Get metro name.
- Returns string with metro name.
+=head2 C<get_node_by_id>
 
-=item C<xml()>
+ my $station = $obj->get_node_by_id($station_id);
 
- Get XML specification of Kazan metro.
- Returns string with XML.
+Get station node by id.
 
-=back
+Returns Map::Tube::Node object.
+
+=head2 C<get_node_by_name>
+
+ my $station = $obj->get_node_by_name($station_name);
+
+Get station node by name.
+
+Returns Map::Tube::Node object.
+
+=head2 C<get_shortest_route>
+
+ my $route = $obj->get_shortest_route($from, $to);
+
+Get shortest route between $from and $to node names. Node names in $from and $to are case insensitive.
+
+Returns Map::Tube::Route object.
+
+=head2 C<get_stations>
+
+ my $stations_ar = $obj->get_stations($line);
+
+Get list of stations for concrete metro line.
+
+Returns reference to array with Map::Tube::Node objects.
+
+=head2 C<name>
+
+ my $metro_name = $obj->name;
+
+Get metro name.
+
+Returns string with metro name.
+
+=head2 C<xml>
+
+ my $xml_file = $obj->xml;
+
+Get XML specification of Kazan metro.
+
+Returns string with XML.
 
 =head1 EXAMPLE1
 
